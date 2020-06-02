@@ -23,6 +23,7 @@ If the data has been collected by a satellite, it is strongly recommended to use
 For defining view geometry of data, it is strongly recommended to use the [`view` extension](../view/README.md).
 
 - [Example (Landsat 8)](examples/example-landsat8.json)
+- [Example (Landsat 8) with Bands in Assets](examples/example-landsat8-assets.json)
 - [JSON Schema](json-schema/schema.json)
 
 ## Item fields
